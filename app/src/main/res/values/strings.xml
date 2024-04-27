@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Git Find</string>
+    <string name="username">Username</string>
+    <string name="user_not_found">User with the username was not found</string>
+    <string name="enter_username">Please enter the username</string>
+    <string name="name">Name</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="no_users_have_been_favorited_yet">No users have been favorited yet</string>
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
